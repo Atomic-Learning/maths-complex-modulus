@@ -10,15 +10,7 @@ $$
 
 Because it is built from a square root of a sum of squares, the modulus is always a non-negative real number. Zero is the only complex number whose modulus is $0$.
 
-# Properties
-
-The modulus is multiplicative and interacts cleanly with the multiplicative inverse and the complex conjugate:
-
-$$
-|z_1| \cdot |z_2| &= |z_1 z_2|\\
-|z^{-1}| &= |z|^{-1}\\
-|z^*| &= |z|
-$$
+# Modulus and Complex Conjugate
 
 A particularly useful identity links the modulus to the complex conjugate: multiplying a complex number by its conjugate gives the square of its modulus.
 
