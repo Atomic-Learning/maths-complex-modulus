@@ -1,5 +1,5 @@
 {
-    "title": "Math: Modulus of a Complex Number",
+    "title": "Maths: Modulus of a Complex Number",
     "slug": "maths-complex-modulus",
     "description": "Defines the modulus (absolute value) of a complex number as the non-negative real number given by the square root of the sum of the squares of its real and imaginary parts, and covers its relationship with the complex conjugate.",
     "authors": [
@@ -14,6 +14,5 @@
         "maths-complex-conjugate"
     ],
     "related": [
-        "maths-complex-number-division"
     ]
 }
